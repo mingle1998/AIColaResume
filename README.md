@@ -11,7 +11,7 @@
 
 最近发现了一个免费工具——[可乐AI简历](https://luckycola.com.cn/public/resume/)，它通过AI技术解决了这些痛点。今天就来分享一下这个工具的实际使用体验。
 
-![Snipaste\_2025-08-31\_13-43-19.png](https://p0-xtjj-private.juejin.cn/tos-cn-i-73owjymdk6/b9443c525dfd48e5a8493181e2f11fd9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5YWt5pyI55qE5Y-v5LmQ:q75.awebp?policy=eyJ2bSI6MywidWlkIjoiMzc4NDk2NjcwNzYxNzQ0OCJ9&rk3s=f64ab15b&x-orig-authkey=f32326d3454f2ac7e96d3d06cdbb035152127018&x-orig-expires=1757224394&x-orig-sign=Qec%2F1p1z5QI8NbqAlhI3qnqVj78%3D)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/47ad15785ce64ade819133f9918db811.png#pic_center)
 ## 一、AI智能简历生成：技术人的福音
 
 ### 核心功能体验
